@@ -1,0 +1,20 @@
+# big one
+## medium one
+#### smaller 
+###### smallest
+
+![Image of Lain](https://pen-online.com/fr/wp-content/uploads/2021/07/11145735/ep11_11_RE_t1psd-e1626008350338.jpeg)
+```
+#Hello world
+var myVar = "Hello, world!";
+```
+
+```
+# example: tiny function so the bot sees a code fence
+def ping():
+    return "pong"
+```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
