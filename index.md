@@ -14,3 +14,7 @@ var myVar = "Hello, world!";
 def ping():
     return "pong"
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
